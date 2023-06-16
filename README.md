@@ -1,2 +1,2 @@
 # sistema_emprestimo
-Trabalho AED II
+## codigo em linguagem .c  usando lista simples encadeada 
