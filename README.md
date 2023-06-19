@@ -5,7 +5,7 @@
 ## Introdução
 
 Texto explicando oq faz
-Abixo explicacao do que cada funcao faz
+Abaixo explicacao do que cada funcao faz
 
 ## Nome da funcao
 texto
